@@ -61,7 +61,7 @@ I'm a passionate **mobile developer** from **Algeria** 🇩🇿, crafting meanin
 <tr>
 <td width="50%">
 
-### 🧠 [DK-AI Chat](https://github.com/meslimoh123-crypto/aidea)
+### 🧠 [DK-AI Chat](https://github.com/meslimoh123-crypto/DK-AI-Chat)
 My personal Flutter AI assistant app integrating **GPT-4**, **Claude**, **Gemini** and image generation. A full LLM client built with Dart — explore, chat, create.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -71,7 +71,7 @@ My personal Flutter AI assistant app integrating **GPT-4**, **Claude**, **Gemini
 </td>
 <td width="50%">
 
-### 🐝 [AgentFlow](https://github.com/meslimoh123-crypto/crewAI)
+### 🐝 [AgentFlow](https://github.com/meslimoh123-crypto/AgentFlow)
 A framework I'm using and extending for **building autonomous AI agent pipelines**. Multi-agent collaboration where each agent has a role, goal, and tools.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -83,7 +83,7 @@ A framework I'm using and extending for **building autonomous AI agent pipelines
 <tr>
 <td width="50%">
 
-### 📱 [FlutterLab](https://github.com/meslimoh123-crypto/FlutterExampleApps)
+### 📱 [FlutterLab](https://github.com/meslimoh123-crypto/FlutterLab)
 My personal Flutter playground — a growing collection of **UI experiments, animations, and app patterns** I study and build on. From state management to Firebase integrations.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -92,7 +92,7 @@ My personal Flutter playground — a growing collection of **UI experiments, ani
 </td>
 <td width="50%">
 
-### 📖 [DK Dev Toolkit](https://github.com/meslimoh123-crypto/awesome-flutter)
+### 📖 [DK Dev Toolkit](https://github.com/meslimoh123-crypto/DK-Dev-Toolkit)
 My curated personal reference of the **best Flutter libraries, tools, and resources** I actively use and recommend. Kept up-to-date as I discover new gems.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
