@@ -14,13 +14,13 @@
 
 I'm a passionate **mobile developer** from **Algeria** 🇩🇿, crafting meaningful apps with **Flutter & Dart**. I love building clean UIs, exploring AI automation, and turning ideas into real products.
 
-- 🎓 Currently building **[UniMatch](https://github.com/meslimoh123-crypto/Flutter_UniMatch)** — a smart Flutter app that matches students with the right university
-- 🤖 Exploring **AI agents**, **LLMs**, and **automation workflows**
-- 📱 Specializing in **cross-platform mobile development** with Flutter
-- 💡 Interested in **UI/UX design**, clean architecture, and scalable systems
-- 🌱 Always learning and shipping — currently diving into **AI agent frameworks** and **LLM-powered apps**
-- 📬 Reach me at: **meslimoh.123@gmail.com**
-- 😄 Pronouns: **he/him**
+- Currently building **[UniMatch](https://github.com/meslimoh123-crypto/Flutter_UniMatch)** — a smart Flutter app that matches students with the right university
+- Exploring **AI agents**, **LLMs**, and **automation workflows**
+- Specializing in **cross-platform mobile development** with Flutter
+- Interested in **UI/UX design**, clean architecture, and scalable systems
+- Always learning and shipping — currently diving into **AI agent frameworks** and **LLM-powered apps**
+- Reach me at: **meslimoh.123@gmail.com**
+- Pronouns: **he/him**
 
 ---
 
@@ -60,9 +60,9 @@ I'm a passionate **mobile developer** from **Algeria** 🇩🇿, crafting meanin
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-- 📱 Cross-platform mobile app (Android & iOS)
-- 🎯 Smart matching algorithm for personalized recommendations
-- 🎨 Clean, modern UI with Flutter Material Design
+- Cross-platform mobile app (Android & iOS)
+- Smart matching algorithm for personalized recommendations
+- Clean, modern UI with Flutter Material Design
 
 ---
 
