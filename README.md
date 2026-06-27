@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <h1>👋 Hey, I'm Dtwen Karim</h1>
 
 <p><b>Mobile Developer · Flutter Enthusiast · AI Explorer · Building the future of student apps</b></p>
